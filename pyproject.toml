@@ -1,20 +1,22 @@
+# ADEUS COLORIZADOR 
+
 [build-system]
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "colorizador"
-version = "0.1.0"
-description = "Uma biblioteca Python em português para simplificar cores e estilização no terminal e no Termux."
+version = "1.0.0"  # Versão final
+description = "Biblioteca nativa e ultra-leve em português para cores no terminal. (Finalizada em favor do estilizador v2.0)"
 readme = "README.md"
 requires-python = ">=3.7"
 license = {text = "MIT"}
 authors = [
     {name = "Dias Valente 96", email = "diasvalente96@gmail.com"}
 ]
-keywords = ["terminal", "colorama", "cores", "termux", "portugues", "cli", "colorizador"]
+keywords = ["terminal", "cores", "termux", "portugues", "cli", "colorizador"]
 dependencies = [
-    "colorama>=0.4.6"
+    # REMOVIDA! Zero dependências externas para total simplicidade.
 ]
 
 [tool.setuptools]

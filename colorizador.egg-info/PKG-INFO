@@ -1,3 +1,15 @@
+Metadata-Version: 2.4
+Name: colorizador
+Version: 1.0.0
+Summary: Biblioteca nativa e ultra-leve em português para cores no terminal. (Finalizada em favor do estilizador v2.0)
+Author-email: Dias Valente 96 <diasvalente96@gmail.com>
+License: MIT
+Keywords: terminal,cores,termux,portugues,cli,colorizador
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
 # colorizador 🎨
 
 Uma biblioteca Python ultra-simples, em **português**, feita para facilitar a estilização de menus e saídas no terminal. Criada especialmente para ajudar iniciantes, desenvolvedores de scripts rápidos e a comunidade que utiliza o **Termux** no celular!

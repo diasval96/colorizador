@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+colorizador/__init__.py
+colorizador/estilos.py
+colorizador.egg-info/PKG-INFO
+colorizador.egg-info/SOURCES.txt
+colorizador.egg-info/dependency_links.txt
+colorizador.egg-info/top_level.txt
