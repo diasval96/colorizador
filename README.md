@@ -9,7 +9,7 @@ O `colorizador` chegou ao fim da sua linha de desenvolvimento ativo. O código f
 **Por que mudou?**
 O projeto cresceu e se transformou em um motor completo de componentes visuais CLI. Para refletir essa evolução, o desenvolvimento continuará exclusivamente na nova biblioteca **`estilizador`** a partir da versão 2.0.
 
-👉 **Conheça e acompanhe o novo projeto:** [://github.com](https://github.com/diasval96/estilizador)
+👉 **Conheça e acompanhe o novo projeto:** [**`estilizador`**](https://github.com/diasval96/estilizador)
 
 ---
 
